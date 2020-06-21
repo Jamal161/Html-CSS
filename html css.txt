@@ -1,0 +1,41 @@
+
+...........................................
+background 
+border
+margin
+width 
+box model
+link
+list
+font
+............................................
+float
+align
+opacity
+inline block
+form
+website layout
+ground conners
+border image
+............................................
+
+opencart
+
+system structure
+database
+
+html:
+
+1. Heading
+2. paragraph
+3. formating
+4. link
+5. image
+6  table
+7. list
+8. Entities
+9. form
+
+
+
+
